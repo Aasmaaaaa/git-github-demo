@@ -31,7 +31,3 @@ This markdown file has been made to demostrate development with github and the b
 ![This is the game zone](https://i.etsystatic.com/18154652/r/il/0b1f66/1703344718/il_fullxfull.1703344718_9z17.jpg)
 
 You can view my webside [HERE]()
-
-**course 102**
-
-- [class 01 - Growth mindset](https://github.com/Aasmaaaaa/git-github-demo/code-102/class-102)
